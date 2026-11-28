@@ -1,0 +1,11 @@
+{
+  "name": "goalgraph-v2",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A modular multilingual goal and task planner for static hosting",
+  "scripts": {
+    "test": "node --test",
+    "serve": "python3 -m http.server 8000"
+  }
+}
